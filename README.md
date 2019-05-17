@@ -7,13 +7,13 @@ To run the main program you need to download the program itself and additional l
 Main app with GUI that connect all methode - 'main.py'
 
 Also you can test our methods that we prepare, only you have to run in terminal:
-  - methode_1
-  '$ python3 decode_barcode.py'
-  - methode_2
-  '$ python3 barcode_detect.py'
+  - methode_1: 
+  '$ python3 methode_1/decode_barcode.py'
+  - methode_2: 
+  '$ python3 methode_2/barcode_detect.py'
   
  For testing app that create barcodes:
-  'python3 create_barcode.py'
+  - 'python3 create_barcode.py'
  
   
   
