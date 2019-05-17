@@ -9,7 +9,7 @@ Main app with GUI that connect all methode - 'main.py'
 Also you can test our methods that we prepare, only you have to run in terminal:
   - methode_1
   '$ python3 decode_barcode.py'
-  -methode_2
+  - methode_2
   '$ python3 barcode_detect.py'
   
  For testing app that create barcodes:
